@@ -3,3 +3,7 @@ It is a Wallet extension for Crypto currency that support 2 currencies Ethereum 
 
 This is the link for public folder of frontend which containes all frontend:
 https://drive.google.com/file/d/11S5C4EYkOakvDV3T0klsmT7QJk8ZYRfP/view?usp=sharing
+Team Members:
+Meet Patel
+Vedant Mehta
+Himanshu Mishra
